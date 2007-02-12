@@ -1,5 +1,5 @@
 Summary:	Spatial GNOME editor
-Summary(pl):	Przestrzenny edytor dla GNOME
+Summary(pl.UTF-8):   Przestrzenny edytor dla GNOME
 Name:		scratchpad
 Version:	0.3.0
 Release:	1
@@ -21,7 +21,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Spatial GNOME editor.
 
-%description -l pl
+%description -l pl.UTF-8
 Przestrzenny edytor dla GNOME.
 
 %prep
