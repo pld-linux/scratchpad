@@ -15,6 +15,7 @@ BuildRequires:	gnome-vfs2-devel >= 2.16.0
 BuildRequires:	gtk+2-devel >= 2:2.10.0
 BuildRequires:	gtksourceview-devel >= 1.8.0
 BuildRequires:	libgnomeui-devel >= 2.16.0
+BuildRequires:	libselinux-devel
 BuildRequires:	pkgconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
